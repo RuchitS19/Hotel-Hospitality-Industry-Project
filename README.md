@@ -2,6 +2,8 @@
 In this project we collect data from one of biggest hotel chain company OYO , they give us list of issues are they facing in bussiness .
 we analysis data through python and Power BI ,we create new dataset from existing data that help us. 
 you see in our Power BI file in key measures.
+
+This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 1. dim_date
 2. dim_hotels
 3. dim_rooms
